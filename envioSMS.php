@@ -6,6 +6,8 @@ $logger = Logger::getLogger("default");
 /*echo "Información:----"
 echo "Warning:----"
 echo "Error:----"
+// git checkout envioSMS
+// git merge envioSMS
 */
 $logger->info("This is an informational message.");
 $logger->warn("I'm not feeling so good...");
